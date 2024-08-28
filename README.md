@@ -3,7 +3,7 @@ This website is a passion project of mine that allowed me to learn and refine my
 
 **Link to project:** (https://www.tobilawuyi.com/)
 
-<img width="1342" alt="Screenshot 2024-02-04 at 10 14 17 PM" src="https://github.com/Fawazie/Resume-Website/assets/78445573/d6950b04-d471-4a8d-8e59-7f289df8058a">
+<img width="1540" alt="Screenshot 2024-02-04 at 10 14 17 PM" src="https://github.com/Fawazie/Resume-Website/assets/78445573/d6950b04-d471-4a8d-8e59-7f289df8058a">
 
 
 ## How It's Made:
