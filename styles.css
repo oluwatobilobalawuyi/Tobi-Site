@@ -201,26 +201,11 @@ fawaz {
 
   font-size: 14px;
   top: 20vh;
+  min-width: 65%;
   max-width: 500px;
   text-align: center;
-  overflow: scroll;
+  overflow: hidden;
 
-}
-
-
-.cars {
-  position: relative;
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-
-  color: rgb(87, 87, 87);
-  padding: 0.1rem 0.4rem;
-  cursor: pointer;
-  background: padding-box,
-    linear-gradient(to right, #24a6f2, #9279ec) border-box;
-  border-radius: 35em;
-  border: 1px solid transparent;
 }
 
 .software {
@@ -229,7 +214,7 @@ fawaz {
   justify-content: center;
   align-items: center;
 
-  color: rgb(87, 87, 87);
+  color: rgb(50, 155, 179);
   padding: 0.1rem 0.5rem;
   cursor: pointer;
 
